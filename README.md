@@ -1,5 +1,10 @@
 # Simple accordion sample
 
+<p align="center">
+  <img width="70%" src="https://github.com/freelanceDudolad/simple-accordion-sample/blob/main/actions.gif" alt="Accordion Sample">
+</p>
+
+
 ## Implemented features
 
 - Edit accordion item title
